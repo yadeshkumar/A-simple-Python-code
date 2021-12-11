@@ -1,2 +1,2 @@
-# A-simple-Python-code
-A simple version of most common childhood game "Stone - Paper - Scissor"
+# some python codes 
+purely for getting to understand python
