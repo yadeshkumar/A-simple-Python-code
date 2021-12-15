@@ -1,3 +1,4 @@
+#pip install pyttsx3
 import pyttsx3
 speaker = pyttsx3.init()
 while True:
